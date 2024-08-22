@@ -1,0 +1,6 @@
+<div class="h-screen w-screen bg-yellow-200/[0.2] flex justify-center items-center transition-all duration-500 focus-within:h-0 focus-within:opacity-0">
+  <button class="relative before:content-['***************************************'] before:transition-all before:duration-500 before:w-[300px] before:h-0 before:h-[3px] before:bg-black before:absolute before:top-[-1rem] before:animate-pulse before:opacity-0 hover:before:opacity-100 before:left-[-15%] hover:cursor-pointer after:animate-bounce after:content-['&#8595;'] after:transition-all after:duration-500 after:w-5 after:h-5 after:text-black after:absolute after:top-7 after:left-[38%] hover:scale-110 transition-all duration-500 active:scale-125 hover:text-red-500 hover:font-bold hover:pl-10" >Welcome to K&K Electronixs</button>
+</div>
+<div class="h-screen w-screen bg-cyan-200/[0.2] flex justify-center items-center">
+  Hello. :)
+</div>
