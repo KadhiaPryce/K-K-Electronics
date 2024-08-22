@@ -1,0 +1,85 @@
+ body {
+     font-family: Arial, sans-serif;
+     font-size: 16px;
+     line-height: 1.5;
+     margin: 0;
+     padding: 0;
+     background-color: #f2f2f2;
+ }
+
+ h1 {
+     text-align: center;
+     font-size: 36px;
+     margin-top: 50px;
+ }
+
+ .order-info {
+     background-color: #fff;
+     padding: 20px;
+     margin: 50px auto;
+     max-width: 600px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+ }
+
+ .order-info p {
+     margin: 0;
+     padding: 5px 0;
+     font-size: 20px;
+ }
+
+ .order-info p:first-child {
+     font-size: 24px;
+     font-weight: bold;
+ }
+
+ .customer-info {
+     background-color: #fff;
+     padding: 20px;
+     margin: 0 auto 50px;
+     max-width: 600px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+ }
+
+ .customer-info h2 {
+     margin-top: 0;
+ }
+
+ .customer-info p {
+     margin: 0;
+     padding: 5px 0;
+     font-size: 20px;
+ }
+
+ .order-details {
+     background-color: #fff;
+     padding: 20px;
+     margin: 0 auto;
+     max-width: 600px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+ }
+
+ .order-details h2 {
+     margin-top: 0;
+ }
+
+ table {
+     width: 100%;
+     border-collapse: collapse;
+     margin-top: 20px;
+ }
+
+ th,
+ td {
+     text-align: left;
+     padding: 10px;
+     border-bottom: 1px solid #ddd;
+ }
+
+ th {
+     background-color: #f2f2f2;
+     font-weight: bold;
+ }
+
+ tfoot tr:last-child td {
+     font-weight: bold;
+ }
