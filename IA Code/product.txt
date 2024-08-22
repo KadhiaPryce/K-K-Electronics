@@ -1,0 +1,512 @@
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Phones
+Product Description: Poo
+Cost Price: $20.00
+Sales Price: $90.00
+Quantity in Stock: 5
+------------------------
+Product Name: Samsung W21
+Product Code: S-0944
+Product Type: Phones
+Product Description: White, Chrome
+Cost Price: $90
+Sales Price: $300
+Quantity in Stock: 90
+------------------------
+Product Name: Huawei I95
+Product Code: K-0590
+Product Type: Phones
+Product Description: Pink, Blue & Navy
+Cost Price: $100
+Sales Price: $430
+Quantity in Stock: 45
+------------------------
+Product Name: Nontendo Switch
+Product Code: N-7632
+Product Type: Gaming Consoles
+Product Description: Limited Pokamonster Rapter Version
+Cost Price: $90
+Sales Price: $20.00
+Quantity in Stock: 5
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Electronics
+Product Description: Pkil
+Cost Price: $90
+Sales Price: $120
+Quantity in Stock: 88
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Electronics
+Product Description: Pkil
+Cost Price: $90
+Sales Price: $120
+Quantity in Stock: 88
+------------------------
+Product Name: 
+Product Code: 
+Product Type: 
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Gaming Consoles
+Product Description: Da
+Cost Price: $20.00
+Sales Price: $120
+Quantity in Stock: 90
+------------------------
+Product Name: 
+Product Code: 
+Product Type: 
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: 
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: A
+Product Code: S-0944
+Product Type: Phones
+Product Description: Q
+Cost Price: $90
+Sales Price: $20.00
+Quantity in Stock: 7
+------------------------
+Product Name: 
+Product Code: 
+Product Type: 
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Gaming Consoles
+Product Description: MP
+Cost Price: $90
+Sales Price: $20.00
+Quantity in Stock: 90
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Electronics
+Product Description: LLLLLL
+Cost Price: $89
+Sales Price: $9000
+Quantity in Stock: 33446
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Electronics
+Product Description: EW
+Cost Price: $90
+Sales Price: $20.00
+Quantity in Stock: 5
+------------------------
+Product Name: IPhone 50
+Product Code: K-0596
+Product Type: Phones
+Product Description: Eqas
+Cost Price: $20.00
+Sales Price: $120
+Quantity in Stock: 90
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Gaming Consoles
+Product Description: Ku
+Cost Price: $5
+Sales Price: $3
+Quantity in Stock: 2
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Electronics
+Product Description: Gfr
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name:             a
+Product Code: S-0944
+Product Type: Electronics
+Product Description: Pol
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: K-0590
+Product Type: Phones
+Product Description: Mj
+Cost Price: $<br /><b>Warning</b>:  Undefined array key 
+Sales Price: $<br /><b>Warning</b>:  Undefined array key 
+Quantity in Stock: <br /><b>Warning</b>:  Undefined array key 
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Phones
+Product Description: DSD
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: Samsung W21
+Product Code: S-0949
+Product Type: Electronics
+Product Description: Rarr
+Cost Price: $20.00
+Sales Price: $90.00
+Quantity in Stock: 87
+------------------------
+Product Name: Applew
+Product Code: A-0590
+Product Type: Electronics
+Product Description: Sew
+Cost Price: $<br /><b>Warning</b>:  Undefined array key 
+Sales Price: $<br /><b>Warning</b>:  Undefined array key 
+Quantity in Stock: <br /><b>Warning</b>:  Undefined array key 
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Electronics
+Product Description: Ew
+Cost Price: $80
+Sales Price: $9
+Quantity in Stock: 7
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Gaming Consoles
+Product Description: Ju
+Cost Price: $<br /><b>Warning</b>:  Undefined array key 
+Sales Price: $<br /><b>Warning</b>:  Undefined array key 
+Quantity in Stock: <br /><b>Warning</b>:  Undefined array key 
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Phones
+Product Description: SA
+Cost Price: $20.00
+Sales Price: $20.00
+Quantity in Stock: 5
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Phones
+Product Description: SD
+Cost Price: $<br /><b>Warning</b>:  Undefined array key 
+Sales Price: $<br /><b>Warning</b>:  Undefined array key 
+Quantity in Stock: <br /><b>Warning</b>:  Undefined array key 
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Electronics
+Product Description: FAS
+Cost Price: $20.00
+Sales Price: $90
+Quantity in Stock: 90
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Gaming Consoles
+Product Description: TG
+Cost Price: $89
+Sales Price: $20.00
+Quantity in Stock: 5
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Gaming Consoles
+Product Description: Kj
+Cost Price: $<br /><b>Warning</b>:  Undefined array key 
+Sales Price: $<br /><b>Warning</b>:  Undefined array key 
+Quantity in Stock: <br /><b>Warning</b>:  Undefined array key 
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Gaming Consoles
+Product Description: RFRG
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Electronics
+Product Description: Lh
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Electronics
+Product Description: LO
+Cost Price: $899.99
+Sales Price: $120
+Quantity in Stock: 7
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Electronics
+Product Description: K
+Cost Price: $<br /><b>Warning</b>:  Undefined array key 
+Sales Price: $<br /><b>Warning</b>:  Undefined array key 
+Quantity in Stock: <br /><b>Warning</b>:  Undefined array key 
+------------------------
+Product Name:             a
+Product Code: F-0090
+Product Type: Phones
+Product Description: L
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Electronics
+Product Description: Lhh
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: Phones
+Product Description: j
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Phones
+Product Description: th
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Electronics
+Product Description: Re
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Phones
+Product Description: dhf
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Phones
+Product Description: lokijuhy
+Cost Price: $<br /><b>Warning</b>:  Undefined array key 
+Sales Price: $<br /><b>Warning</b>:  Undefined array key 
+Quantity in Stock: <br /><b>Warning</b>:  Undefined array key 
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Phones
+Product Description: edfg
+Cost Price: $<br /><b>Warning</b>:  Undefined array key 
+Sales Price: $<br /><b>Warning</b>:  Undefined array key 
+Quantity in Stock: <br /><b>Warning</b>:  Undefined array key 
+------------------------
+Product Name:             a
+Product Code: K-0590
+Product Type: Gaming Consoles
+Product Description: f
+Cost Price: $<br /><b>Warning</b>:  Undefined array key 
+Sales Price: $<br /><b>Warning</b>:  Undefined array key 
+Quantity in Stock: <br /><b>Warning</b>:  Undefined array key 
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Phones
+Product Description: h
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: a
+Product Type: Phones
+Product Description: kjhg
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Electronics
+Product Description: n
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: IPhone 54
+Product Code: S-0944
+Product Type: Electronics
+Product Description: es
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $899.99
+Sales Price: $20.00
+Quantity in Stock: 7
+------------------------
+Product Name: IPhone 54
+Product Code: F-0090
+Product Type: Phones
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: empty
+Product Description: 
+Cost Price: $
+Sales Price: $
+Quantity in Stock: 
+------------------------
+Product Name: 
+Product Code: 
+Product Type: Phones
+Product Description: 
+Cost Price: $20.00
+Sales Price: $20.00
+Quantity in Stock: 5
+------------------------
